@@ -36,17 +36,11 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alvarogm27&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Alvarogm27" width="390"/>
 </p>
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Alvarogm27&show_icons=true&locale=en&theme=chartreuse-dark" alt="Alvarogm27" width="410"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=antoniohr4&show_icons=true&locale=en&theme=chartreuse-dark" alt="Antoniohr4" width="410"/>
 </p>
 <br><br><br><br><br><br><br><br><br><br>
 
 <hr width="100%" >
 
 ## Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/%C3%A1lvaro-garc%C3%ADa-m%C3%A1rquez-b3487330a/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="linkedin" width="50"></a>
-<a href="mailto:alvarogarciamarquez.ccg@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="linkedin" width="50"></a>
-</p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alvarogm27&label=Profile%20views&color=0e75b6&style=flat" alt="Alvarogm27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniohr4&label=Profile%20views&color=0e75b6&style=flat" alt="antoniohr4" /> </p>
